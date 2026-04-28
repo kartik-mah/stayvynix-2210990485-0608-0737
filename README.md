@@ -1,8 +1,9 @@
 Project Title: StayVynix
 
 Team Members:
-- Kartik Mahajan
-- Nikhil
+- Kartik(2210990485)
+- Nikhil(2210990608)
+- Rohan(2210990737)
 
 Type: Copyright
 
